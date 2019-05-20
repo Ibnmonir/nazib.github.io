@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on José Ignacio Orlando</title>
+    <title>Talks on José Ignacio Orlando</title>
     <link>https://ignaciorlando.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on José Ignacio Orlando</description>
+    <description>Recent content in Talks on José Ignacio Orlando</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <copyright>&amp;copy; 2017 José Ignacio Orlando</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://ignaciorlando.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 10 Apr 2019 15:00:00 +0000</lastBuildDate>
+    <atom:link href="https://ignaciorlando.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>U2-Net: A Bayesian U-Net Model with Epistemic Uncertainty Feedback for Photoreceptor Layer Segmentation in Pathological OCT Scans</title>
@@ -18,7 +15,9 @@
       <pubDate>Wed, 10 Apr 2019 15:00:00 +0000</pubDate>
       
       <guid>https://ignaciorlando.github.io/talk/isbi2019/</guid>
-      <description></description>
+      <description>&lt;!--- and
+Embed your slides or video here using [shortcodes](https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code.---&gt;
+</description>
     </item>
     
     <item>
@@ -27,7 +26,9 @@
       <pubDate>Fri, 07 Dec 2018 15:00:00 +0000</pubDate>
       
       <guid>https://ignaciorlando.github.io/talk/uba2018/</guid>
-      <description></description>
+      <description>&lt;!--- and
+Embed your slides or video here using [shortcodes](https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code.---&gt;
+</description>
     </item>
     
     <item>
@@ -36,6 +37,17 @@
       <pubDate>Fri, 06 Oct 2017 15:00:00 +0000</pubDate>
       
       <guid>https://ignaciorlando.github.io/talk/sipaim2017/</guid>
+      <description>&lt;!--- and
+Embed your slides or video here using [shortcodes](https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/). Further details can easily be added using *Markdown* and $\rm \LaTeX$ math code.---&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://ignaciorlando.github.io/talk/_index/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://ignaciorlando.github.io/talk/_index/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,9 @@
     <link>https://ignaciorlando.github.io/home/</link>
     <description>Recent content in Homes on José Ignacio Orlando</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <copyright>&amp;copy; 2017 José Ignacio Orlando</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://ignaciorlando.github.io/home/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://ignaciorlando.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
@@ -18,7 +15,13 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://ignaciorlando.github.io/home/about/</guid>
-      <description>Biography Hi everyone! I&amp;rsquo;m José Ignacio Orlando, but you can call me Nacho :) I&amp;rsquo;m an Argentinian researcher currently working as a postdoc in the Christian Doppler Laboratory for Ophthalmic Image Analysis (OPTIMA), at the Medical University of Vienna (Austria). In 2013 I&amp;rsquo;ve received my Software Engineering degree from UNICEN (Tandil, Argentina), and in September 2017 I&amp;rsquo;ve defended my PhD thesis in Computational and Industrial Mathematics in the same university.</description>
+      <description>
+
+&lt;h1 id=&#34;biography:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Biography&lt;/h1&gt;
+
+&lt;p&gt;Hi everyone! I&amp;rsquo;m José Ignacio Orlando, but you can call me Nacho :)
+I&amp;rsquo;m an Argentinian researcher currently working as a postdoc in the &lt;a href=&#34;https://optima.meduniwien.ac.at/&#34; target=&#34;_blank&#34;&gt;Christian Doppler Laboratory for Ophthalmic Image Analysis (OPTIMA)&lt;/a&gt;, at the &lt;a href=&#34;https://www.meduniwien.ac.at/hp/1/department-of-ophthalmology/&#34; target=&#34;_blank&#34;&gt;Medical University of Vienna&lt;/a&gt; (Austria). In 2013 I&amp;rsquo;ve received my Software Engineering degree from &lt;a href=&#34;https://www.unicen.edu.ar/english&#34; target=&#34;_blank&#34;&gt;UNICEN&lt;/a&gt; (Tandil, Argentina), and in September 2017 I&amp;rsquo;ve defended my PhD thesis in Computational and Industrial Mathematics in the same university. I&amp;rsquo;ve done my doctoral research at the &lt;a href=&#34;http://www.pladema.net/&#34; target=&#34;_blank&#34;&gt;PLADEMA Institute&lt;/a&gt; with a PhD scholarship granted by &lt;a href=&#34;http://www.conicet.gov.ar/?lan=en&#34; target=&#34;_blank&#34;&gt;CONICET&lt;/a&gt;, and supervised by &lt;a href=&#34;http://homes.esat.kuleuven.be/~mblaschk/&#34; target=&#34;_blank&#34;&gt;Prof. Dr. Matthew B. Blaschko&lt;/a&gt; (&lt;a href=&#34;https://www.esat.kuleuven.be/psi&#34; target=&#34;_blank&#34;&gt;ESAT-PSI&lt;/a&gt;, &lt;a href=&#34;https://www.kuleuven.be/english/&#34; target=&#34;_blank&#34;&gt;KU Leuven&lt;/a&gt;, Belgium) and &lt;a href=&#34;https://www.researchgate.net/profile/Mariana_Del_Fresno&#34; target=&#34;_blank&#34;&gt;Prof. Dr. Mariana del Fresno&lt;/a&gt; (&lt;a href=&#34;https://www.gba.gob.ar/cic&#34; target=&#34;_blank&#34;&gt;CIC-PBA&lt;/a&gt;, UNICEN, Tandil, Argentina). My main research interests involve the application of machine learning and computer vision techniques for ophthalmic image analysis.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -72,8 +75,15 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://ignaciorlando.github.io/home/teaching/</guid>
-      <description>I have been a Teaching Assistant in the following courses at UNICEN (Argentina):
- Workshop on Medical Image Analysis (2014-2018) Workshop on Computational Mathematics (2015-2018) Information Theory (2013-2016) Software Development Methodologies (2010-2012)  </description>
+      <description>&lt;p&gt;I have been a Teaching Assistant in the following courses at UNICEN (Argentina):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://tallerim.alumnos.exa.unicen.edu.ar/&#34; target=&#34;_blank&#34;&gt;Workshop on Medical Image Analysis&lt;/a&gt; (2014-2018)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tudai1-1.alumnos.exa.unicen.edu.ar/taller-de-matematica-computacional&#34; target=&#34;_blank&#34;&gt;Workshop on Computational Mathematics&lt;/a&gt; (2015-2018)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.exa.unicen.edu.ar/catedras/teoinfo/&#34; target=&#34;_blank&#34;&gt;Information Theory&lt;/a&gt; (2013-2016)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://metodologias.alumnos.exa.unicen.edu.ar/&#34; target=&#34;_blank&#34;&gt;Software Development Methodologies&lt;/a&gt; (2010-2012)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
